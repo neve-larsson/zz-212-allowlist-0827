@@ -4,4 +4,4 @@ jobs:
   j:
     runs-on: ubuntu-latest
     steps:
-      - uses: neve-larsson/zz-212-blocked-action-0827@main
+      - uses: arlo-kovac/zz-212-blocked-0827@main
