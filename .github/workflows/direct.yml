@@ -1,0 +1,7 @@
+name: direct
+on: [workflow_dispatch]
+jobs:
+  j:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: neve-larsson/zz-212-blocked-action-0827@main
