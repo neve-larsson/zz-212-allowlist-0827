@@ -4,4 +4,4 @@ jobs:
   j:
     runs-on: ubuntu-latest
     steps:
-      - uses: neve-larsson/zz-212-allowed-action-0827@main
+      - uses: mr-benty/zz-212-allowed-0827@main
